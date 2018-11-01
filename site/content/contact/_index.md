@@ -3,7 +3,9 @@ title: Contact
 logo: /img/lotus.png
 contact_entries:
   - heading: Location
-    text: '3153 Lynn Avenue, South San Francisco, California 94080'
+    text: >-
+      SEL HUQ SKYPARK, Level-9, 23/2 Mirpur Road, Shyamoli, Dhaka 1207,
+      Bangladesh
   - heading: Working hours
     text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
 ---
