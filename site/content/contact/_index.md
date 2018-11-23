@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Us
 logo: /img/lotus.png
 contact_entries:
   - heading: Location
