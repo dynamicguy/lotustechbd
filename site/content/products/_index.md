@@ -1,7 +1,7 @@
 ---
 title: Our Products
 image: /img/screenshot-2018-12-04-at-11.12.00-pm.jpg
-heading: What we offer
+heading: সংসদ নির্বাচন - একটি এন্ড্রয়েড অ্যাপ্লিকেশন
 description: সংসদ নির্বাচন - একটি এন্ড্রয়েড অ্যাপ্লিকেশন
 intro:
   blurbs:
@@ -32,7 +32,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: সংসদ নির্বাচন - একটি এন্ড্রয়েড অ্যাপ্লিকেশন
   description: >-
     সংসদ নির্বাচন একটি এন্ড্রয়েড অ্যাপ্লিকেশন। আসন্ন একাদশ জাতীয় সংসদ নির্বাচন
     উপলক্ষে এখানে আপনি বাংলাদেশে অনুষ্ঠিত ১৯৭০ সাল থেকে ২০১৪ সাল পর্যন্ত সকল
