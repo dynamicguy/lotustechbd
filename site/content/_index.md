@@ -27,6 +27,6 @@ products:
       fall in love with in our shop.
 values:
   heading: Our values
-  text: We deliver Software solutions at it's best
+  text: We deliver software solutions at it's best
 ---
 
