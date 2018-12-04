@@ -1,7 +1,7 @@
 ---
 title: Lotus Technologies
 subtitle: Software solutions at it's best
-image: /img/home-jumbotron.jpg
+image: /img/tron.jpg
 blurb:
   heading: Why Lotus Technologies?
   text: We deliver Software solutions at it's best
