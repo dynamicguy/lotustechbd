@@ -1,12 +1,8 @@
 ---
 title: Our Products
-image: /img/products-jumbotron.jpg
+image: /img/screenshot-2018-12-04-at-11.12.00-pm.jpg
 heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: সংসদ নির্বাচন - একটি এন্ড্রয়েড অ্যাপ্লিকেশন
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -37,11 +33,19 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    সংসদ নির্বাচন একটি এন্ড্রয়েড অ্যাপ্লিকেশন। আসন্ন একাদশ জাতীয় সংসদ নির্বাচন
+    উপলক্ষে এখানে আপনি বাংলাদেশে অনুষ্ঠিত ১৯৭০ সাল থেকে ২০১৪ সাল পর্যন্ত সকল
+    সংসদ নির্বাচনের বিস্তারিত তথ্য পাবেন। আমরা দৃঢ়ভাবে বিশ্বাস করি যে এই
+    অ্যাপ্লিকেশন নির্বাচন নিয়ে উৎসাহী প্রতিটি নাগরিক,  নির্বাচিত ও সাবেক সংসদ
+    সদস্যগণ, রাজনৈতিক নেত্রীবৃন্দ, কর্মী, গবেষক, ইতিহাসবিদ এবং নাগরিকগণের তার
+    নির্বাচনী এলাকা, ভোট কেন্দ্র এবং এর প্রতিটি নির্বাচন ভিত্তিক ঐতিহাসিক তথ্য
+    সম্পর্কে আরও বিস্তারিত জানতে সক্ষম হবেন। এই অ্যাপ্লিকেশন প্রায় ২০ দিন আগে
+    এটি মুক্তি পেয়েছে। গুগল প্লে স্টোর মোতাবেক এটি ইতিমধ্যে ১০,০০০ এরও বেশি
+    ডিভাইসে ইনস্টল করা হয়েছে। এই অ্যাপ্লিকেশনটি গুগল প্লে স্টোর থেকে ডাউনলোড
+    করতে ভিজিট করুন 
+    https://play.google.com/store/apps/details?id=com.nirbachan.app অথবা
+    অ্যাপ্লিকেশন এর ওয়েবসাইট https://www.nirbachan.com/
 main:
   heading: Great coffee with no compromises
   description: >
@@ -51,13 +55,13 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/13.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/14.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/vote-centers.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -67,7 +71,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/constituencies.png
 pricing:
   heading: Monthly subscriptions
   description: >-
