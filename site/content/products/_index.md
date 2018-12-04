@@ -47,12 +47,11 @@ intro:
     https://play.google.com/store/apps/details?id=com.nirbachan.app অথবা
     অ্যাপ্লিকেশন এর ওয়েবসাইট https://www.nirbachan.com/
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Great service with no compromises
+  description: >-
+    We hold our app to the highest standards from the shrub to the app. That’s
+    why we’re meticulous and transparent about each step of the application's
+    journey
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/13.jpg
@@ -65,7 +64,7 @@ main:
 testimonials:
   - author: Md. Emon
     quote: ধন্যবাদ
-  - author: MoraD
+  - author: Morad
     quote: অসাধারণ
 full_image: /img/constituencies.png
 pricing:
