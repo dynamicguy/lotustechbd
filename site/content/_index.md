@@ -1,6 +1,6 @@
 ---
 title: Lotus Technologies
-subtitle: Software solutions at it's best
+subtitle: software solutions at it's best
 image: /img/tron.jpg
 blurb:
   heading: Why Lotus Technologies?
