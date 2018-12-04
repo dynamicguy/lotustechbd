@@ -1,26 +1,86 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: 'সংসদ নির্বাচন, একটি এন্ড্রয়েড অ্যাপ্লিকেশন'
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/blog-chemex.jpg
+  সংসদ নির্বাচন একটি এন্ড্রয়েড অ্যাপ্লিকেশন। আসন্ন একাদশ জাতীয় সংসদ নির্বাচন
+  উপলক্ষে এখানে আপনি বাংলাদেশে অনুষ্ঠিত ১৯৭০ সাল থেকে ২০১৪ সাল পর্যন্ত সকল সংসদ
+  নির্বাচনের বিস্তারিত তথ্য পাবেন। আমরা দৃঢ়ভাবে বিশ্বাস করি যে এই অ্যাপ্লিকেশন
+  নির্বাচন নিয়ে উৎসাহী প্রতিটি নাগরিক,  নির্বাচিত ও সাবেক সংসদ সদস্যগণ, রাজনৈতিক
+  নেত্রীবৃন্দ, কর্মী, গবেষক, ইতিহাসবিদ এবং নাগরিকগণের তার নির্বাচনী এলাকা, ভোট
+  কেন্দ্র এবং এর প্রতিটি নির্বাচন ভিত্তিক ঐতিহাসিক তথ্য সম্পর্কে আরও বিস্তারিত
+  জানতে সক্ষম হবেন। এই অ্যাপ্লিকেশন প্রায় ২০ দিন আগে এটি মুক্তি পেয়েছে। গুগল
+  প্লে স্টোর মোতাবেক এটি ইতিমধ্যে ১০,০০০ এরও বেশি ডিভাইসে ইনস্টল করা হয়েছে। এই
+  অ্যাপ্লিকেশনটি গুগল প্লে স্টোর থেকে ডাউনলোড করতে ভিজিট করুন 
+  https://play.google.com/store/apps/details?id=com.nirbachan.app অথবা
+  অ্যাপ্লিকেশন এর ওয়েবসাইট https://www.nirbachan.com/
+image: /img/screenshot-2018-12-04-at-11.12.00-pm.jpg
 ---
+এখানে প্রতিটি টি আসন ও ভোট কেন্দ্রের বিস্তারিত যে সকল তথ্য রয়েছে তা নিম্নরুপঃ 
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+প্রতিটি নির্বাচনের আসন ভিত্তিক বিস্তারিত তথ্যঃ
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+* আসনের নাম, নম্বর এবং নির্বাচন এর বছর৷
+* আসনের মোট ভোট, প্রদত্ত ভোট, অবৈধ ভোট৷
+* আসনের বিজয়ীর নাম, ছবি, প্রাপ্ত ভোট, প্রতীক ও দলের নাম৷
+* আসনের দ্বিতীয় প্রার্থীর নাম, ছবি, প্রাপ্ত ভোট, প্রতীক ও দলের নাম৷
+* আসনের তৃতীয় প্রার্থীর নাম, ছবি, প্রাপ্ত ভোট, প্রতীক ও দলের নাম৷
 
-## The little secrets of Chemex brewing
+স্ক্রিনশট
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+![](/img/constituencies.png)
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+![](/img/45205582_194242878127597_6702049650817368064_o.png)
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+প্রতিটি আসন ভিত্তিক ভোট কেন্দ্রের বিস্তারিত তথ্যঃ
+
+* ভোট কেন্দ্রের নাম, আসন এর নাম, এবং নির্বাচন এর সাল৷
+* ভোট কেন্দ্রের মোট ভোট, প্রদত্ত ভোট ও অবৈধ ভোট৷
+* ভোট কেন্দ্রের বিজয়ীর নাম, প্রাপ্ত ভোট, প্রতীক ও দলের নাম৷
+* ভোট কেন্দ্রের দ্বিতীয় প্রার্থীর নাম, প্রাপ্ত ভোট, প্রতীক ও দলের নাম৷
+* ভোট কেন্দ্রের তৃতীয় প্রার্থীর নাম, প্রাপ্ত ভোট, প্রতীক ও দলের নাম৷
+
+স্ক্রিনশট
+
+![](/img/vote-centers.png)
+
+![](/img/14.jpg)
+
+ এছাড়াও এখানে পাবেনঃ
+
+* অ্যাপ্লিকেশন জুড়ে সহজ এবং নমনীয় অনুসন্ধান এর সুবিধা৷
+* অ্যাপ্লিকেশন এর মধ্যে সহজ প্রবেশাধিকার এর জন্য বুকমার্ক৷
+* অ্যাপ্লিকেশন এর সমস্ত তথ্য অফলাইন। তাই এই অ্যাপ্লিকেশন ইন্টারনেট ছাড়া ব্যবহার করা যাবে৷
+
+স্ক্রিনশট
+
+
+
+
+
+
+
+
+
+
+
+
+
+এর মূল্য ১০০ টাকা। এই অ্যাপ এর নির্মাতা নুরুল ফেরদৌস জানান, “এই অ্যাপ আমাদের দীর্ঘ দিনের অক্লান্ত পরিশ্রমের ফসল। এটি নিয়মিত আপডেট করা হবে। মোবাইলে আঙ্গুলের টিপে সহজে তথ্য পাওয়ার মাধ্যমে নির্বাচিত ও সাবেক সংসদ সদস্যগণ, রাজনৈতিক নেত্রীবৃন্দ, কর্মী, গবেষক, ইতিহাসবিদ এবং আগ্রহী নাগরিকগণের তাৎক্ষনিক প্রয়োজন মেটালে আমাদের পরিশ্রম সার্থক বলে গণ্য হবে।
+
+সংসদ নির্বাচনের তথ্য সহজে প্রাপ্য নয়। এটিই আমাদের সীমাবদ্ধতা। ভুল ত্রুটি ক্ষমা সুন্দর দৃষ্টিতে দেখবেন। আপনাদের মূল্যবান মতামত আমাদের জানালে আমরা কৃতজ্ঞ থাকবো।” 
+
+ 
+
+ 
+
+পাঠকের যেকোনো প্রশ্ন বা পরামর্শের জন্য যোগাযোগের মোবাইল নম্বরঃ ০১৭৫১৯৪৮৮৭৭
+
+ 
+
+এই রিপোর্ট ব্যবহৃত সব ছবি পাওয়া যাবে এখানেঃ https://www.dropbox.com/sh/3t7l434c7clchzt/AACTQOF_AtS1JwGS_JoNhp-da?dl=0 
+
+ 
+
+এই প্রতিবেদনটি গুগল ডকস এ দেখার জন্য ভিজিট করুনঃ https://docs.google.com/document/d/1H0YHx6eoHJZkivZT6WL8itbATzwMHgnSmsILvGTBr_I/edit?usp=sharing
